@@ -68,29 +68,11 @@ Postgres and GraphQL. Please check it out and feel free also to contribute or gi
 - [x] End-to-end tests with Cypress App Actions. Read
       [this](https://applitools.com/blog/page-objects-app-actions-cypress/)!
 
-### i18n
-
-This project is using the official internationalization. You can navigate through every language If
-you want to translate the messages you can use this awesome tool,
-[Tiny Translator](https://martinroob.github.io/tiny-translator/en/#/translate).
-
-## Bugs and feature requests
-
-Have a bug or a feature request? Please first read the issue guidelines and search for existing and
-closed issues. If your problem or idea is not addressed yet,
-[please open a new issue](https://github.com/Ismaestro/angular-example-app/issues/new).
-
-
 ## Thanks
 
 Thanks to all contributors and their support.
 
 If you have an idea or you want to do something, tell me or just do it! I'm always happy to hear
 your feedback!
-
-## Copyright and license
-
-Code and documentation copyright 2021 the authors. Code released under the
-[MIT License](https://github.com/Ismaestro/angular-example-app/blob/master/LICENSE).
 
 Enjoy :metal:
