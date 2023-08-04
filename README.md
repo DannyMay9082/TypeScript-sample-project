@@ -80,11 +80,6 @@ Have a bug or a feature request? Please first read the issue guidelines and sear
 closed issues. If your problem or idea is not addressed yet,
 [please open a new issue](https://github.com/Ismaestro/angular-example-app/issues/new).
 
-## Creators
-
-**Ismael Ramos**
-
-- <https://github.com/ismaestro>
 
 ## Thanks
 
